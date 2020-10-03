@@ -1,5 +1,7 @@
 # Hwk3
 Homework 3 for CS105
 
+Contributors:
 
-Payton Watts psw35@nau.edu
+Lucas Figueiredo Gerosa - lf459@nau.edu
+Payton Watts
